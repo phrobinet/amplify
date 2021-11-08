@@ -1,0 +1,13 @@
+# API (GraphQL)
+
+1. [Vue d'ensemble](1.md)
+2. [Concepts](2.md)
+3. [Créer ou réutiliser un backend existant](3.md)
+4. [Configurer les modes d'autorisation](4.md)
+5. [Create, update, delete data](5.md)
+6. [Récupérer les données](6.md)
+7. [S'abonner aux données](7.md)
+8. [Annuler les demandes d'API](8.md)
+9. [Scénarios hors ligne](9.md)
+10. [GraphQL depuis NodeJS](10.md)
+11. [Configurer les modes d'autorisation](11.md)
