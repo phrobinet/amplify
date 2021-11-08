@@ -11,6 +11,7 @@ module.exports = config({
    */
   description: description,
 
+
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
@@ -30,6 +31,7 @@ module.exports = config({
   themeConfig: {
     repo: '',
     editLinks: false,
+    hostname: 'https://compassionate-kirch-19ae89.netlify.app/',
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
