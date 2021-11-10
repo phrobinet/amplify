@@ -29,7 +29,7 @@ module.exports = config({
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: 'https://github.com/phrobinet/amplify',
     editLinks: false,
     hostname: 'https://compassionate-kirch-19ae89.netlify.app/',
     docsDir: '',
@@ -57,18 +57,6 @@ module.exports = config({
         link: '/Tuto/'
       }
     ],
-    // sidebar: {
-    //   '/guide/': [
-    //     {
-    //       title: 'Guide',
-    //       collapsable: false,
-    //       children: [
-    //         '',
-    //         'using-vue',
-    //       ]
-    //     }
-    //   ],
-    // }
   },
 
   /**
