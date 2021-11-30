@@ -1,0 +1,17 @@
+version: 0.2
+phases:    
+  install:      
+    runtime-versions:
+      nodejs: 12
+    commands:
+      - npm install npm@latest -g
+    pre_build:
+      commands:
+        - npm install
+    build:
+      commands:
+        - npm run build
+artifacts:
+  base-directory: src/.vuepress/dist/    
+  files:
+    - '**/*' 
