@@ -9,9 +9,9 @@ phases:
       commands:
         - npm install
     build:
-      commands:
+      commands:    
         - npm run build
 artifacts:
   base-directory: src/.vuepress/dist/    
   files:
-    - '**/*' 
+    - '**/*'
